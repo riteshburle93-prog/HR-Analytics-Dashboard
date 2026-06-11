@@ -27,7 +27,7 @@ The dataset contains employee information including:
 - Attrition Status
 
 ## Dashboard Preview
-![HR Dashboard] (./Screenshot 2026-06-11 163913.png)
+![HR Dashboard] (./HR_Dashboard_Screenshot.png)
 
 ## Files Included
 - HR_Dashboard.pbix
